@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Artificial Intelligence Basics",
+    "author": "John Smith",
+    "year": 2020,
+    "text": "Introduction to AI, machine learning and neural networks"
+  },
+  {
+    "id": 2,
+    "title": "Deep Learning Guide",
+    "author": "Andrew Ng",
+    "year": 2019,
+    "text": "Deep learning techniques and applications in modern AI"
+  },
+  {
+    "id": 3,
+    "title": "History of India",
+    "author": "Romila Thapar",
+    "year": 2005,
+    "text": "Ancient and medieval Indian history overview"
+  }
+]

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Book Search Demo</title>
+  <link rel="stylesheet" href="5_style.css">
+</head>
+
+<body>
+
+<div class="header">
+  <h1>Improved Search Demo</h1>
+
+  <input id="q" placeholder="Search books, authors, topics..." />
+  <button onclick="search()">Search</button>
+</div>
+
+<div class="container">
+
+  <div class="filters">
+    <h3>Filters</h3>
+    <label><input type="checkbox"> AI</label><br>
+    <label><input type="checkbox"> History</label><br>
+    <label><input type="checkbox"> Science</label><br>
+  </div>
+
+  <div id="results" class="results"></div>
+
+</div>
+
+<script src="6_app.js"></script>
+</body>
+</html>
